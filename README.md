@@ -1,4 +1,6 @@
-# CodeIgniter 4 Application Starter
+# CodeIgniter 4 and VUEJS Application Starter
+
+Create application with CodeIgniter 4 and VUEJS
 
 ## What is VUEJS?
 
